@@ -1,0 +1,28 @@
+h1 {
+  margin-bottom: 15px;
+  font-size: 60px;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: underline;1
+  background-color: black;
+}
+
+h2 {
+  margin: 15px 0;
+  font-size: 40px;
+  text-align: center;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+ul {
+  text-align: center;
+  font-size: 36px;
+  border-style: solid;
+  border-width: 5px;
+  list-style-position: inside;
+}
